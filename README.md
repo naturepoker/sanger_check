@@ -15,7 +15,11 @@ Output is in two different forms- the first is the standard muscle alignment fil
 
 The second output is a stdout to a the terminal, meant to immediately give the user a bird's eye view of the quality of the sanger result. Each of the red * denotes a matching base between the forward and the reverse read, with an actual count of matching bases given below the cli graph.
 
+Here's what a decent sanger run of a common 16s bacterial barcoding might look like. 
+
 ![Here's an example of a decent sanger output](./image/p1.png)
+
+And here's what a messy 16s barcoding run would look like - definitely needs a redo.
 
 ![And here's an example of a sanger output that will definitely needs a redo](./image/e1.png)
 
