@@ -18,3 +18,5 @@ The second output is a stdout to a the terminal, meant to immediately give the u
 ![Here's an example of a decent sanger output](./image/p1.png)
 
 ![And here's an example of a sanger output that will definitely needs a redo](./image/e1.png)
+
+I'll also introduce an export feature for a combined forward and reverse read fasta file output. 
